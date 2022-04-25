@@ -15,8 +15,10 @@ The participants task is to figure out, as quickly and accurately as possible, t
 This repository contains all the necessary components for the coblok task.
 
 The components are organized into folders as follows:
+
     - puzzle_cards: contains the puzzles for two sets of five puzzles and two examples
-    - block_cards: contains cards representing each block in the task for aiding the task explanation
+
     - blocks_3d: contains STL files for all the blocks that can be imported to a 3D engine or 3D printed
-    - enclosures: contains PDF files for laser cutting acrylic enclosures for 3D printed blocks (created with [Box Designer](http://boxdesigner.connectionlab.org)).
+
+    - enclosures: contains PDF file for laser cutting acrylic enclosures for 3D printed blocks (created with [Box Designer](http://boxdesigner.connectionlab.org)).
 
