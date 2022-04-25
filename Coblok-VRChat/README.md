@@ -12,4 +12,4 @@
 
 5. Copy the files in this folder into the fresh Unity project folder you just created. Overwrite any existing files.
 
-6. Reopen the Unity folder and it should be ready to run. Try it out from VRChat builder located in the VRChat SDK Control Panel.
+6. Reopen Unity and the scene should be ready to run. Try it out from VRChat builder located in the VRChat SDK Control Panel.
