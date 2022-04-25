@@ -16,9 +16,10 @@ This repository contains all the necessary components for the coblok task.
 
 The components are organized into folders as follows:
 
-    - puzzle_cards: contains the puzzles for two sets of five puzzles and two examples
+- puzzle_cards: contains the puzzles for two sets of five puzzles and two examples
 
-    - blocks_3d: contains STL files for all the blocks that can be imported to a 3D engine or 3D printed
+- blocks_3d: contains STL files for all the blocks that can be imported to a 3D engine or 3D printed
 
-    - enclosures: contains PDF file for laser cutting acrylic enclosures for 3D printed blocks (created with [Box Designer](http://boxdesigner.connectionlab.org)).
+- enclosures: contains PDF file for laser cutting acrylic enclosures for 3D printed blocks (created with [Box Designer](http://boxdesigner.connectionlab.org)).
 
+- Coblok-VRChat: contains the files and instructions for the VRChat world
